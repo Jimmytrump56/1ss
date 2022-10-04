@@ -19,4 +19,4 @@ client.on('ready', () =>{
 client.user.setActivity(' TUI airlines!', {type: "WATCHING"})
 })
 
-client.login('MTAyNDc3NzE2MTU0ODIzNDc3Mg.G5hVlz.Kr1S1dunJSXw40PTI5EQGySESXO4Bvx2ACuzm8');
+client.login('mytoken');
